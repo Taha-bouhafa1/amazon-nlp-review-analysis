@@ -1,4 +1,4 @@
-# Amazon NLP Review Analysis
+# Amazon Review Analysis Using NLP
 
 This repository contains a Natural Language Processing (NLP) pipeline applied to the Amazon Fine Food Reviews dataset. It covers various advanced text analysis tasks including sentiment classification, topic modeling, named entity recognition (NER), and text summarization using traditional and transformer-based methods.
 
